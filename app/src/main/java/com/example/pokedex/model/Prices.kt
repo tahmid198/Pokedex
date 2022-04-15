@@ -1,4 +1,4 @@
-package com.example.pokedex.models
+package com.example.pokedex.model
 
 data class Prices(
     val averageSellPrice: Double,
