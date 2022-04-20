@@ -1,6 +1,6 @@
-package com.example.pokedex.models
+package com.example.pokedex.model
 
-data class ReverseHolofoil(
+data class Holofoil(
     val directLow: Double,
     val high: Double,
     val low: Double,

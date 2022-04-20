@@ -1,4 +1,4 @@
-package com.example.pokedex.models
+package com.example.pokedex.model
 
 data class Ability(
     val name: String,
